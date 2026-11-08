@@ -1,6 +1,6 @@
 # Kile Research
 
-## Inference for Humans
+## Beginner's Guide to Inference
 
 Hands-on, beginner-friendly guides to how AI models actually run. Each article teaches **one idea**, takes 5–10 minutes to follow, and ends with something you built and measured yourself.
 
